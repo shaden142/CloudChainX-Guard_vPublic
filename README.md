@@ -154,4 +154,4 @@ Innovation & Digital Entrepreneurship Forum 2026
 
 The project poster provides a concise overview of the system architecture, methodology, evaluation process, and key results.
 
-📄 [View Project Poster](poster/CloudChainX_Guard_Poster.jpeg)
+📄 [View Project Poster](poster/‏‏CloudChainX_Guard_Poster.jpeg)
